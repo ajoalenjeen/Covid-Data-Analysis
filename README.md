@@ -18,6 +18,6 @@ SQL: Performed Exploratory Data Analysis (EDA) to find:
 
 * Countries with highest case and death percentages
 
-* Vaccination patterns 
+* Vaccination patterns
 
 Tableau: Dashboard
