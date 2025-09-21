@@ -62,3 +62,20 @@ Combined Insights
 * Relationship between vaccination rates and death rates
 
 * Trends showing the effect of vaccines on case reduction
+  
+
+## SQL Queries
+
+* The analysis is entirely SQL-based and includes:
+
+* Data extraction and filtering
+
+* Aggregations and grouping
+
+* Window functions for rolling totals
+
+* CTEs (Common Table Expressions) for vaccination percentages
+
+* Joins between death and vaccination datasets
+
+
