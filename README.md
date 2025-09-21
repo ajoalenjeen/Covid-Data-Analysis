@@ -82,3 +82,6 @@ Combined Insights
 ![image](https://github.com/ajoalenjeen/Covid-Data-Analysis/blob/4c8008707ce2e6a98226557d057a770e572d6d57/Covid%20Dashboard.png)
 
 
+
+
+
